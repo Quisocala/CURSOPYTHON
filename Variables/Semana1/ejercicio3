@@ -1,0 +1,6 @@
+import math 
+
+numero= int(input("ingresa un numero entero" ))
+numero
+
+
